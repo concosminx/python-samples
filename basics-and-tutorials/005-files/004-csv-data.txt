@@ -1,0 +1,4 @@
+name,age,university,degree
+jimmy,25,pitesti,informatica
+ioana,90,cluj,matematica
+elena,30,cluj,medicina

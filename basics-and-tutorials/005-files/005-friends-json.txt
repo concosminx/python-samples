@@ -1,0 +1,16 @@
+{
+  "friends": [
+    {
+      "name": "Jimmy",
+      "degree": "Informatica"
+    },
+    {
+      "name": "Relu",
+      "degree": "Educatie Fizica si Sport"
+    },
+    {
+      "name": "Alina",
+      "degree": "Chimie"
+    }
+  ]
+}

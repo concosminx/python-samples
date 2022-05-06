@@ -1,0 +1,3 @@
+FCSB,Bucuresti,Romania
+Real Madrid,Madrid,Spain
+AC Milan,Milano,Italy
